@@ -1,6 +1,6 @@
 package com.example.chat.Servicies;
 
-import com.example.chat.chat.ChatMessage;
+import com.example.chat.Model.ChatMessage;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.simp.SimpMessageHeaderAccessor;
 import org.springframework.stereotype.Component;
